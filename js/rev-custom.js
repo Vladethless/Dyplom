@@ -1,6 +1,6 @@
 
 /*
-Template: Medicate – Health & Medical HTML Template
+Template: Dyplom - Kabinet Travmatologa
 Author: peacefulqode.com
 Version: 1.2
 Design and Developed by: PeacefulQode
